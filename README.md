@@ -23,7 +23,7 @@ pip install -r requirement.txt
 
 Launch with:
 
-```
+``` 
 jupyter notebook
 ```
 
