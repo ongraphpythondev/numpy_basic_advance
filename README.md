@@ -29,7 +29,7 @@ jupyter notebook
 
 ## In Basic Folder Contain Basic topic and Advance Folder contain Advance topic :
 
-#### Basic
+#### Basic :
 
 > Different methods for creating array ex. zeros, ones, fill , arrange , linspace , random.randint , np.eye
 
@@ -42,7 +42,7 @@ jupyter notebook
 > Concatinting and splitting
 
 
-#### Advance
+#### Advance :
 
 > Universal functions (ufuncs)
 
