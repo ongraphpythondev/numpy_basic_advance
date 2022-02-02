@@ -32,17 +32,25 @@ jupyter notebook
 #### Basic
 
 > Different methods for creating array ex. zeros, ones, fill , arrange , linspace , random.randint , np.eye
+
 > Attributes of numpy
+
 > Array indexing
+
 > Array slicing
+
 > Concatinting and splitting
 
 
 #### Advance
 
 > Universal functions (ufuncs)
+
 > Broadcasting
+
 > Masking
+
 > Fancy indexing
+
 > Sorting
 
