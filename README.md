@@ -1,14 +1,21 @@
 # NUMPY
 
+## Introduction
+
 NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.
+
+NumPy is a library that helps us handle large and multidimensional arrays and matrices. It provides a large collection of powerful methods to do multiple operations.
+
+NumPy Arrays NumPy arrays are n-dimensional arrays containing data of the same type in the form of rows and columns. We can create these arrays in the following way:
 
 ## Installation
 
-For a local installation, make sure you have pip installed and run:
+To install requirement python libraries :
 
 ```
-pip install notebook
+pip install -r requirement.txt
 ```
+
 
 ## Usage - Running Jupyter notebook
 
@@ -20,23 +27,22 @@ Launch with:
 jupyter notebook
 ```
 
-```python
-import foobar
+## In Basic Folder Contain Basic topic and Advance Folder contain Advance topic :
 
-# returns 'words'
-foobar.pluralize('word')
+#### Basic
 
-# returns 'geese'
-foobar.pluralize('goose')
+> Different methods for creating array ex. zeros, ones, fill , arrange , linspace , random.randint , np.eye
+> Attributes of numpy
+> Array indexing
+> Array slicing
+> Concatinting and splitting
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+#### Advance
 
-Please make sure to update tests as appropriate.
+> Universal functions (ufuncs)
+> Broadcasting
+> Masking
+> Fancy indexing
+> Sorting
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
