@@ -32,7 +32,6 @@ jupyter notebook
 #### Basic :
 
 > Different methods for creating array ex. zeros, ones, fill , arrange , linspace , random.randint , np.eye
-
 > Attributes of numpy <br>
 > Array indexing <br>
 > Array slicing <br>
